@@ -3,7 +3,13 @@
 This repository contains SQL exercises organized by session. Each session includes a set of queries along with the database schema required to run them.
 
 ## 📂 Folder Structure
-SQL-Exercises/ │-- session-14/ │ ├── create_schema.sql # Contains database schema and sample data │ ├── queries.sql # Contains SQL queries with requirements │-- session-XX/ # Future sessions will be added here │-- README.md # Project documentation
+SQL-Exercises/
+├── session-14/
+│   ├── create_schema.sql   # Contains database schema and sample data
+│   ├── queries.sql         # Contains SQL queries with requirements
+├── session-XX/             # Future sessions will be added here
+├── README.md               # Project documentation
+
 
 
 ## 📖 Session 14
